@@ -13,7 +13,8 @@ Android's Trebuchet home screen, app drawer and folders, running in place of iOS
 
 **[Download](../../releases)** · **[Sileo repo](https://jond-ie.github.io/repo)** · **[Report a bug](../../issues)** · **[X @Jond_ie](https://x.com/Jond_ie)**
 
-<!-- screenshots go here: <img src="screenshots/home.png" width="24%"> … (status bar cropped) -->
+<img src="screenshots/home.png" width="32%"> <img src="screenshots/drawer.png" width="32%"> <img src="screenshots/search.png" width="32%">
+<img src="screenshots/shortcuts.png" width="32%"> <img src="screenshots/edit.png" width="32%"> <img src="screenshots/settings.png" width="32%">
 
 </div>
 
