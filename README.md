@@ -22,6 +22,7 @@ Catapult swaps the iOS Home Screen for Trebuchet, the one from LineageOS. Everyt
 - **An app drawer.** Swipe up for every app in one A to Z list. Its search box also does quick sums, converts units and searches the web.
 - **A tidier Home Screen.** Folders open on one page, and widgets show the time, weather, your music and your batteries (AirPods too).
 - **Your look.** Icon shapes, icon themes and your own font, on the Home Screen or across all of iOS. Emoji stay Apple's.
+- **In your language.** Catapult follows your iPhone's language.
 - **It still feels like an iPhone.** Apps open and close with Apple's own animation, straight from their icon.
 
 > **Safe to try.** If something goes badly wrong, Catapult switches itself off and your normal Home Screen comes back.
