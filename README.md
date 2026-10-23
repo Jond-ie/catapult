@@ -36,6 +36,7 @@ This repo holds the downloads and the bug tracker. Catapult's source code isn't 
 Add **`https://jond-ie.github.io/repo`** in Sileo or Zebra and search **Catapult**. Or download the `.deb` from **[Releases](../../releases)**.
 
 - Needs a **rootless jailbreak** (Dopamine, palera1n…) on **iOS 15 to 18**.
+- **iOS 14, rootful (experimental):** a separate test build is on the [Releases](../../releases) page. It hasn't been tested on a real iOS 14 phone yet.
 - Had MakrSas's Trebuchet? Catapult replaces it and keeps your layout.
 
 **[Everything it can do, tested phones and questions →](https://jond-ie.github.io/repo/catapult/)**
